@@ -3,6 +3,7 @@ name = "python-bp"
 version = "0.1.0"
 description = ""
 authors = [
+    {name = 'Malaga Space Team',email = 'spaceteam@uma.es'}
     {name = "Diego Toledo",email = "dtoledo@uma.es"}
 ]
 readme = "README.md"
